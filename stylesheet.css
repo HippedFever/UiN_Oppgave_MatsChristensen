@@ -13,6 +13,14 @@
 
 body {
     background-color: var(--yellow);
+    background-image: url('/images_for_website/mainbackground.png');
+    background-repeat: repeat;
     font-family: 'Rubik', sans-serif;
     font-size: var(--rootsize);
 }
+
+div.container {
+    width: 100%;
+    max-width: var(--maxwidth);
+    background-color: var(--white);
+    margin: 0 auto
