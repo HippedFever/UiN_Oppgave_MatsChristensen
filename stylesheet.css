@@ -23,4 +23,5 @@ div.container {
     width: 100%;
     max-width: var(--maxwidth);
     background-color: var(--white);
-    margin: 0 auto
+    margin: 0 auto;
+}
