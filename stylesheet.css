@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&display=swap');
+
 :root {
     --red: #DA291C;
     --blue: #006DB7;
@@ -8,8 +10,6 @@
     --maxwidth: 1200px;
     --rootsize: 20px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&display=swap');
 
 body {
     background-color: var(--yellow);
